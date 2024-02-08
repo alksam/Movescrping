@@ -1,0 +1,94 @@
+{
+  "employees": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "birthDate": "1990-01-01",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipCode": 12345
+      },
+      "account": {
+        "id": "123456789",
+        "balance": "1000.00",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "birthDate": "1985-05-15",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Sometown",
+        "zipCode": 54321
+      },
+      "account": {
+        "id": "987654321",
+        "balance": "1500.00",
+        "isActive": false
+      }
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "birthDate": "1978-12-20",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Othertown",
+        "zipCode": 67890
+      },
+      "account": {
+        "id": "555555555",
+        "balance": "500.00",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Brown",
+      "birthDate": "1995-09-10",
+      "address": {
+        "street": "321 Pine St",
+        "city": "Anothertown",
+        "zipCode": 13579
+      },
+      "account": {
+        "id": "777777777",
+        "balance": "2000.00",
+        "isActive": true
+      }
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Wilson",
+      "birthDate": "1982-03-25",
+      "address": {
+        "street": "101 Cedar St",
+        "city": "Yetanothertown",
+        "zipCode": 24680
+      },
+      "account": {
+        "id": "999999999",
+        "balance": "750.00",
+        "isActive": false
+      }
+    },
+    {
+      "firstName": "Sophia",
+      "lastName": "Lee",
+      "birthDate": "1993-07-08",
+      "address": {
+        "street": "555 Maple St",
+        "city": "Mapletown",
+        "zipCode": 97531
+      },
+      "account": {
+        "id": "111111111",
+        "balance": "3000.00",
+        "isActive": true
+      }
+    }
+  ]
+}
